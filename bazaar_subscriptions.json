@@ -1,0 +1,11 @@
+{
+    "subscriptions": [
+        {
+            "id": "monthly-1",
+            "title": "1_month",
+            "features": "",
+            "duration": "30",
+            "price": "49000"
+        }
+    ]
+}
