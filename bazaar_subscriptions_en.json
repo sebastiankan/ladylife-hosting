@@ -5,7 +5,9 @@
             "title": "1 Month Pro Access",
             "features": ["Physical suggestions", "Mental suggestions", "Useful articles and videos", "Pregnancy mode", "Suggestion notifications"],
             "duration": 30,
-            "price": "49000"
+            "price": "49000",
+            "currency": "Tomans",
+            "popular": true
         }
     ]
 }
