@@ -1,0 +1,24 @@
+{
+    "videos": [
+        {
+            "id": "875ppxLUp2Y",
+            "source": "youtube",
+            "title": "Self Confidence",
+            "description": "Anosha's feel-good live session about self confidence.",
+            "tags": [
+                "mental",
+                "self_confidence"
+            ]
+        },
+        {
+            "id": "JUnZQ38kdak",
+            "source": "youtube",
+            "title": "Home Exercise",
+            "description": "Tutorial for simple exercise routines during menstruation",
+            "tags": [
+                "exercise",
+                "menstrual"
+            ]
+        }
+    ]
+}
