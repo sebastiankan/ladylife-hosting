@@ -2,6 +2,8 @@
     "subscriptions": [
         {
             "id": "monthly-1",
+            "bazaarId": "monthly-1",
+            "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
             "title": "1 Month Pro Access",
             "features": [
                 "Physical suggestions",
