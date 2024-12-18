@@ -4,7 +4,7 @@
             "id": 1,
             "subject": "Skincare during your menstrual cycle",
             "content": "Skincare during your menstrual cycle can be tailored to the hormonal changes that affect your skin in each phase. Here’s an overview:",
-            "imageUrl": "assets/images/articles/skin1.jpg",
+            "imageUrl": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/1/skin1.jpg?raw=true",
             "url": "https://www.natracare.com/blog/",
             "tags": [
                 "menstrual",
