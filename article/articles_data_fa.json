@@ -4,7 +4,7 @@
             "id": 1,
             "subject": "مراقبت از پوست در طول چرخه قاعدگی",
             "content": "مراقبت از پوست در طول چرخه قاعدگی می‌تواند متناسب با تغییرات هورمونی که در هر مرحله بر پوست شما تأثیر می‌گذارد، تنظیم شود. در اینجا یک نمای کلی ارائه شده است:",
-            "imageUrl": "assets/images/articles/skin1.jpg",
+            "imageUrl": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/1/skin1.jpg?raw=true",
             "url": "https://www.natracare.com/blog/",
             "tags": [
                 "menstrual",
@@ -36,7 +36,6 @@
             "id": 2,
             "subject": "۱۰ راه ساده برای نوشیدن آب بیشتر در طول روز",
             "content": "هیدراته ماندن برای سلامتی کلی و بهزیستی بدن ضروری است. در این مقاله، ۱۰ راهکار ساده و عملی برای افزایش مصرف آب روزانه شما به راحتی توضیح داده می‌شود. این نکات برای سبک زندگی پرمشغله طراحی شده‌اند تا نوشیدن آب را به بخشی طبیعی از روتین روزانه شما تبدیل کنند.",
-            "image": "https://github.com/sebastiankan/ladylife-hosting/blob/main/article/images/drinking/drinkin_tips_1.jpg?raw=true",
             "tags": [
                 "water",
                 "hydartion",
