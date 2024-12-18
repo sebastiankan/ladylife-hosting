@@ -48,6 +48,7 @@
             "paragraphs": [
                 {
                     "title": "1. Start Your Day with a Glass of Water",
+                    "image": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/wakeup.jpg?raw=true",
                     "content": "Begin each day by drinking a full glass of water right after waking up. This jumpstarts hydration after a night’s rest."
                 },
                 {
@@ -56,10 +57,12 @@
                 },
                 {
                     "title": "3. Carry a Reusable Water Bottle",
+                    "image": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/bottle.jpg?raw=true",
                     "content": "Keep a stylish, reusable bottle with you at all times to make drinking water more convenient."
                 },
                 {
                     "title": "4. Infuse Water with Flavor",
+                    "image": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/juicy_water.jpg?raw=true",
                     "content": "Add slices of fruit (e.g., lemon, cucumber, or berries) or herbs like mint to make water more appealing."
                 },
                 {
@@ -80,6 +83,7 @@
                 },
                 {
                     "title": "9. Make it a Game",
+                    "image": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/friends.jpg?raw=true",
                     "content": "Challenge yourself or friends to drink a set amount of water each day. Friendly competition can make hydration fun."
                 },
                 {

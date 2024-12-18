@@ -48,6 +48,7 @@
             "paragraphs": [
                 {
                     "title": "۱. روز خود را با یک لیوان آب شروع کنید",
+                    "image": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/wakeup.jpg?raw=true",
                     "content": "هر روز صبح بعد از بیدار شدن، یک لیوان آب بنوشید. این کار به هیدراته شدن بدن پس از یک شب استراحت کمک می‌کند."
                 },
                 {
@@ -56,10 +57,12 @@
                 },
                 {
                     "title": "۳. یک بطری آب قابل حمل همراه داشته باشید",
+                    "image": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/bottle.jpg?raw=true",
                     "content": "همیشه یک بطری آب شیک و قابل حمل همراه داشته باشید تا نوشیدن آب برای شما آسان‌تر شود."
                 },
                 {
                     "title": "۴. به آب طعم دهید",
+                    "image": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/juicy_water.jpg?raw=true",
                     "content": "برای جذاب‌تر شدن آب، تکه‌های میوه (مثل لیمو، خیار یا توت‌ها) یا گیاهانی مثل نعناع به آن اضافه کنید."
                 },
                 {
@@ -80,6 +83,7 @@
                 },
                 {
                     "title": "۹. آن را به یک بازی تبدیل کنید",
+                    "image": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/friends.jpg?raw=true",
                     "content": "خود یا دوستانتان را به چالش بکشید تا هر روز مقدار مشخصی آب بنوشید. رقابت دوستانه می‌تواند نوشیدن آب را سرگرم‌کننده کند."
                 },
                 {
