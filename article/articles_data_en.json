@@ -36,7 +36,7 @@
             "id": 2,
             "subject": "10 Simple Tips to Drink More Water Daily",
             "content": "Staying hydrated is crucial for overall health and well-being. In this article, discover 10 easy, practical strategies to help you increase your daily water intake effortlessly. Whether you’re at home, work, or on the go, these tips are designed to fit seamlessly into your lifestyle. Perfect for busy individuals seeking better hydration habits!",
-            "image": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/drinking_tips_1.jpg?raw=true",
+            "imageUrl": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/drinking_tips_1.jpg?raw=true",
             "tags": [
                 "water",
                 "hydartion",
