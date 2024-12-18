@@ -1,6 +1,7 @@
 {
     "articles": [
         {
+            "id": 1,
             "subject": "Skincare during your menstrual cycle",
             "content": "Skincare during your menstrual cycle can be tailored to the hormonal changes that affect your skin in each phase. Here’s an overview:",
             "imageUrl": "assets/images/articles/skin1.jpg",
@@ -32,8 +33,10 @@
             ]
         },
         {
+            "id": 2,
             "subject": "10 Simple Tips to Drink More Water Daily",
             "content": "Staying hydrated is crucial for overall health and well-being. In this article, discover 10 easy, practical strategies to help you increase your daily water intake effortlessly. Whether you’re at home, work, or on the go, these tips are designed to fit seamlessly into your lifestyle. Perfect for busy individuals seeking better hydration habits!",
+            "image": "https://github.com/sebastiankan/ladylife-hosting/blob/main/article/images/drinking/drinkin_tips_1.jpg?raw=true",
             "tags": [
                 "water",
                 "hydartion",
@@ -86,6 +89,7 @@
             ]
         },
         {
+            "id": 3,
             "subject": "Foods to eat for each stage of your menstrual cycle",
             "content": "Nutritional guidelines for optimising your hormones at each stage of your menstrual cycle.",
             "imageUrl": "assets/images/articles/food_eat/banner.jpg",
@@ -129,6 +133,7 @@
             ]
         },
         {
+            "id": 4,
             "subject": "Menstrual Cycle and Physical Activity",
             "content": "It is very important to understand the association between physical activity and menstruation, reproductive hormones, and ovulation as it influences fertility outcomes. Studies have proved that physical activities and exercises have a great effect on the reduction of menstrual disorders.",
             "imageUrl": "assets/images/articles/home-exercise.jpg",
@@ -192,6 +197,7 @@
             ]
         },
         {
+            "id": 5,
             "subject": "How the Menstrual Cycle Affects Sexual Desire",
             "content": "The menstrual cycle, regulated by fluctuating hormones, impacts libido differently in each phase:",
             "imageUrl": "assets/images/articles/sex1.jpg",
@@ -230,6 +236,7 @@
             ]
         },
         {
+            "id": 6,
             "subject": "What Does the Color of Your Period Mean?",
             "content": "What those colors mean and when you need to worry",
             "imageUrl": "assets/images/articles/blood1.jpg",
