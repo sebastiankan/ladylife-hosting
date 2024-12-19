@@ -1,6 +1,23 @@
 {
     "subscriptions": [
         {
+            "id": "trial",
+            "bazaarId": "trial_subscription",
+            "sibappId": "",
+            "title": "اشتراک آزمایشی",
+            "features": [
+                "پیشنهادهای فیزیکی",
+                "پیشنهادهای ذهنی",
+                "مقالات و ویدیوهای کاربردی",
+                "حالت بارداری",
+                "اعلان‌های یادآوری و پیشنهادات"
+            ],
+            "duration": 14,
+            "price": 0,
+            "currency": "تومان",
+            "popular": false
+        },
+        {
             "id": "monthly-1",
             "bazaarId": "monthly-1",
             "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
