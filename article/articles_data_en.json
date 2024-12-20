@@ -6,6 +6,7 @@
             "content": "Skincare during your menstrual cycle can be tailored to the hormonal changes that affect your skin in each phase. Here’s an overview:",
             "imageUrl": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/1/skin1.jpg?raw=true",
             "url": "https://www.natracare.com/blog/",
+            "pro": false,
             "tags": [
                 "menstrual",
                 "follicular",
@@ -37,6 +38,7 @@
             "subject": "10 Simple Tips to Drink More Water Daily",
             "content": "Staying hydrated is crucial for overall health and well-being. In this article, discover 10 easy, practical strategies to help you increase your daily water intake effortlessly. Whether you’re at home, work, or on the go, these tips are designed to fit seamlessly into your lifestyle. Perfect for busy individuals seeking better hydration habits!",
             "imageUrl": "https://github.com/sebastiankan/ladylife-hosting/blob/dev/article/images/2/drinking_tips_1.jpg?raw=true",
+            "pro": false,
             "tags": [
                 "water",
                 "hydartion",
@@ -98,6 +100,7 @@
             "content": "Nutritional guidelines for optimising your hormones at each stage of your menstrual cycle.",
             "imageUrl": "assets/images/articles/food_eat/banner.jpg",
             "url": "https://londonclinicofnutrition.co.uk/nutrition-articles/foods-to-eat-for-each-stage-of-your-menstrual-cycle/",
+            "pro": false,
             "tags": [
                 "menstrual",
                 "follicular",
@@ -142,6 +145,7 @@
             "content": "It is very important to understand the association between physical activity and menstruation, reproductive hormones, and ovulation as it influences fertility outcomes. Studies have proved that physical activities and exercises have a great effect on the reduction of menstrual disorders.",
             "imageUrl": "https://github.com/sebastiankan/ladylife-hosting/blob/main/article/images/4/home-exercise.jpg?raw=true",
             "url": "https://www.physio-pedia.com/Menstrual_Cycle_and_Physical_Activity",
+            "pro": false,
             "tags": [
                 "menstrual",
                 "follicular",
@@ -206,6 +210,7 @@
             "content": "The menstrual cycle, regulated by fluctuating hormones, impacts libido differently in each phase:",
             "imageUrl": "https://github.com/sebastiankan/ladylife-hosting/blob/main/article/images/5/sex1.jpg?raw=true",
             "url": "https://drbrighten.com/menstrual-cycle-and-sexual-desire/",
+            "pro": true,
             "tags": [
                 "menstrual",
                 "follicular",
@@ -245,6 +250,7 @@
             "content": "What those colors mean and when you need to worry",
             "imageUrl": "https://github.com/sebastiankan/ladylife-hosting/blob/main/article/images/6/blood1.jpeg?raw=true",
             "url": "https://health.clevelandclinic.org/what-does-the-color-of-your-period-mean",
+            "pro": true,
             "tags": [
                 "menstrual",
                 "follicular",
