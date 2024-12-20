@@ -5,6 +5,7 @@
             "source": "youtube",
             "title": "Self Confidence",
             "description": "Anosha's feel-good live session about self confidence.",
+            "pro": false,
             "tags": [
                 "mental",
                 "self_confidence"
@@ -15,6 +16,7 @@
             "source": "youtube",
             "title": "Home Exercise",
             "description": "Tutorial for simple exercise routines during menstruation",
+            "pro": true,
             "tags": [
                 "exercise",
                 "menstrual"

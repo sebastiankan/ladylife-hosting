@@ -6,6 +6,7 @@
             "content": "مراقبت از پوست در طول چرخه قاعدگی می‌تواند متناسب با تغییرات هورمونی که در هر مرحله بر پوست شما تأثیر می‌گذارد، تنظیم شود. در اینجا یک نمای کلی ارائه شده است:",
             "imageUrl": "assets/images/articles/skin1.jpg",
             "url": "https://www.natracare.com/blog/",
+            "pro": false,
             "tags": [
                 "menstrual",
                 "follicular",
@@ -37,6 +38,7 @@
             "subject": "۱۰ راه ساده برای نوشیدن آب بیشتر در طول روز",
             "content": "هیدراته ماندن برای سلامتی کلی و بهزیستی بدن ضروری است. در این مقاله، ۱۰ راهکار ساده و عملی برای افزایش مصرف آب روزانه شما به راحتی توضیح داده می‌شود. این نکات برای سبک زندگی پرمشغله طراحی شده‌اند تا نوشیدن آب را به بخشی طبیعی از روتین روزانه شما تبدیل کنند.",
             "image": "https://github.com/sebastiankan/ladylife-hosting/blob/main/article/images/drinking/drinkin_tips_1.jpg?raw=true",
+            "pro": false,
             "tags": [
                 "water",
                 "hydartion",
@@ -94,6 +96,7 @@
             "content": "راهنمای تغذیه‌ای برای بهینه‌سازی هورمون‌های شما در هر مرحله از چرخه قاعدگی.",
             "imageUrl": "assets/images/articles/food_eat/banner.jpg",
             "url": "https://londonclinicofnutrition.co.uk/nutrition-articles/foods-to-eat-for-each-stage-of-your-menstrual-cycle/",
+            "pro": false,
             "paragraphs": [
                 {
                     "content": "آیا در نقاط خاصی از چرخه قاعدگی خود با نوسانات خلقی، گرفتگی‌های دردناک یا خستگی مواجه هستید؟ ممکن است فکر کنید این‌ها عناصر اجتناب‌ناپذیر قاعدگی هستند، اما خبر خوب این است که می‌توان با بهینه‌سازی تغذیه آنها را کاهش داد. با تنظیم رژیم غذایی خود متناسب با مراحل مختلف چرخه، ممکن است تغییرات مثبتی در سلامت جسمی، روانی و عاطفی خود مشاهده کنید."
@@ -130,6 +133,7 @@
             "content": "درک ارتباط بین فعالیت فیزیکی و قاعدگی، هورمون‌های تولیدمثلی و تخمک‌گذاری بسیار مهم است زیرا بر نتایج باروری تأثیر می‌گذارد. مطالعات ثابت کرده‌اند که فعالیت‌های فیزیکی و ورزش تأثیر زیادی در کاهش اختلالات قاعدگی دارند.",
             "imageUrl": "assets/images/articles/home-exercise.jpg",
             "url": "https://www.physio-pedia.com/Menstrual_Cycle_and_Physical_Activity",
+            "pro": false,
             "tags": [
                 "menstrual",
                 "follicular",
@@ -194,6 +198,7 @@
             "content": "چرخه قاعدگی که توسط هورمون‌های متغیر تنظیم می‌شود، در هر مرحله به شکل متفاوتی بر میل جنسی تأثیر می‌گذارد:",
             "imageUrl": "assets/images/articles/sex1.jpg",
             "url": "https://drbrighten.com/menstrual-cycle-and-sexual-desire/",
+            "pro": true,
             "tags": [
                 "menstrual",
                 "follicular",
@@ -233,6 +238,7 @@
             "content": "این رنگ‌ها چه معنایی دارند و چه زمانی باید نگران شد",
             "imageUrl": "assets/images/articles/blood1.jpeg",
             "url": "https://health.clevelandclinic.org/what-does-the-color-of-your-period-mean",
+            "pro": true,
             "tags": [
                 "menstrual",
                 "follicular",
