@@ -32,6 +32,57 @@
             "duration": 30,
             "price": 19000,
             "currency": "Tomans",
+            "popular": false
+        },
+        {
+            "id": "months-3",
+            "bazaarId": "months-3",
+            "sibappId": "",
+            "title": "3 Months Pro Access",
+            "features": [
+                "Physical suggestions",
+                "Mental suggestions",
+                "Useful articles and videos",
+                "Pregnancy mode",
+                "Suggestion notifications"
+            ],
+            "duration": 90,
+            "price": 49000,
+            "currency": "Tomans",
+            "popular": false
+        },
+        {
+            "id": "months-6",
+            "bazaarId": "months-6",
+            "sibappId": "",
+            "title": "6 Months Pro Access",
+            "features": [
+                "Physical suggestions",
+                "Mental suggestions",
+                "Useful articles and videos",
+                "Pregnancy mode",
+                "Suggestion notifications"
+            ],
+            "duration": 180,
+            "price": 89000,
+            "currency": "Tomans",
+            "popular": true
+        },
+        {
+            "id": "year-1",
+            "bazaarId": "year-1",
+            "sibappId": "",
+            "title": "1 Year Pro Access",
+            "features": [
+                "Physical suggestions",
+                "Mental suggestions",
+                "Useful articles and videos",
+                "Pregnancy mode",
+                "Suggestion notifications"
+            ],
+            "duration": 365,
+            "price": 159000,
+            "currency": "Tomans",
             "popular": true
         }
     ]
