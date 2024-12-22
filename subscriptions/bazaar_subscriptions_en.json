@@ -1,7 +1,7 @@
 {
     "subscriptions": [
         {
-            "id": "trial",
+            "id": "trial_subscription",
             "bazaarId": "trial_subscription",
             "sibappId": "",
             "title": "Trial Subscription",
