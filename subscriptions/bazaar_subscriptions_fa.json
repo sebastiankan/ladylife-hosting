@@ -30,6 +30,7 @@
                 "اعلان‌های یادآوری و پیشنهادات"
             ],
             "duration": 30,
+            "realPrice": 35000,
             "price": 19000,
             "currency": "تومان",
             "popular": false
@@ -47,6 +48,7 @@
                 "اعلان‌های یادآوری و پیشنهادات"
             ],
             "duration": 90,
+            "realPrice": 105000,
             "price": 49000,
             "currency": "تومان",
             "popular": false
@@ -64,6 +66,7 @@
                 "اعلان‌های یادآوری و پیشنهادات"
             ],
             "duration": 180,
+            "realPrice": 210000,
             "price": 89000,
             "currency": "تومان",
             "popular": true
@@ -81,6 +84,7 @@
                 "اعلان‌های یادآوری و پیشنهادات"
             ],
             "duration": 365,
+            "realPrice": 420000,
             "price": 159000,
             "currency": "تومان",
             "popular": true
