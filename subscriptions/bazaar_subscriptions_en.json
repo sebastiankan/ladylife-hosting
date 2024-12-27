@@ -3,6 +3,7 @@
         {
             "id": "trial_subscription",
             "bazaarId": "trial_subscription",
+            "myketId": "",
             "sibappId": "",
             "title": "Trial Subscription",
             "features": [
@@ -20,6 +21,7 @@
         {
             "id": "monthly-1",
             "bazaarId": "monthly-1",
+            "myketId": "monthly-1",
             "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
             "title": "1 Month Pro Access",
             "features": [
@@ -37,6 +39,7 @@
         {
             "id": "months-3",
             "bazaarId": "months-3",
+            "myketId": "months-3",
             "sibappId": "",
             "title": "3 Months Pro Access",
             "features": [
@@ -54,6 +57,7 @@
         {
             "id": "months-6",
             "bazaarId": "months-6",
+            "myketId": "months-6",
             "sibappId": "",
             "title": "6 Months Pro Access",
             "features": [
@@ -71,6 +75,7 @@
         {
             "id": "year-1",
             "bazaarId": "year-1",
+            "myketId": "year-1",
             "sibappId": "",
             "title": "1 Year Pro Access",
             "features": [
