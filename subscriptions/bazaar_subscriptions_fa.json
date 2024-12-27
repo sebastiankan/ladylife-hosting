@@ -20,6 +20,7 @@
         {
             "id": "monthly-1",
             "bazaarId": "monthly-1",
+            "myketId": "monthly-1",
             "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
             "title": "اشتراک ویژه ۱ ماهه",
             "features": [
@@ -38,6 +39,7 @@
         {
             "id": "months-3",
             "bazaarId": "months-3",
+            "myketId": "months-3",
             "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
             "title": "اشتراک ویژه ۳ ماهه",
             "features": [
@@ -55,6 +57,7 @@
         },
         {
             "id": "months-6",
+            "myketId": "months-6",
             "bazaarId": "months-6",
             "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
             "title": "اشتراک ویژه ۶ ماهه",
@@ -74,6 +77,7 @@
         {
             "id": "year-1",
             "bazaarId": "year-1",
+            "myketId": "year-1",
             "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
             "title": "اشتراک ویژه ۱ ساله",
             "features": [
