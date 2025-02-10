@@ -19,6 +19,25 @@
             "popular": false
         },
         {
+            "id": "offered_30_days",
+            "bazaarId": "offered_30_days",
+            "myketId": "",
+            "sibappId": "",
+            "title": "اشتراک ۱ ماهه ویژه ولنتاین",
+            "features": [
+                "Physical suggestions",
+                "Mental suggestions",
+                "Useful articles and videos",
+                "Pregnancy mode",
+                "Suggestion notifications"
+            ],
+            "duration": 30,
+            "realPrice": 35000,
+            "price": 12000,
+            "currency": "Tomans",
+            "popular": true
+        },
+        {
             "id": "monthly-1",
             "bazaarId": "monthly-1",
             "myketId": "monthly-1",
