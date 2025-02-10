@@ -71,7 +71,7 @@
             "duration": 180,
             "price": 89000,
             "currency": "Tomans",
-            "popular": true
+            "popular": false
         },
         {
             "id": "year-1",

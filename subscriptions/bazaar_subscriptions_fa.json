@@ -73,7 +73,7 @@
             "realPrice": 210000,
             "price": 89000,
             "currency": "تومان",
-            "popular": true
+            "popular": false
         },
         {
             "id": "year-1",
