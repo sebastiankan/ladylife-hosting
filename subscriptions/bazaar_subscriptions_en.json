@@ -19,11 +19,11 @@
             "popular": false
         },
         {
-            "id": "offered_30_days",
-            "bazaarId": "offered_30_days",
-            "myketId": "",
-            "sibappId": "",
-            "title": "اشتراک ۱ ماهه ویژه ولنتاین",
+            "id": "monthly-1",
+            "bazaarId": "monthly-1",
+            "myketId": "monthly-1",
+            "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
+            "title": "1 Month Valentine's Special",
             "features": [
                 "Physical suggestions",
                 "Mental suggestions",
@@ -32,7 +32,6 @@
                 "Suggestion notifications"
             ],
             "duration": 30,
-            "realPrice": 35000,
             "price": 13000,
             "currency": "Tomans",
             "popular": true
@@ -88,24 +87,6 @@
             ],
             "duration": 365,
             "price": 159000,
-            "currency": "Tomans",
-            "popular": false
-        },
-        {
-            "id": "monthly-1",
-            "bazaarId": "monthly-1",
-            "myketId": "monthly-1",
-            "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
-            "title": "1 Month Pro Access",
-            "features": [
-                "Physical suggestions",
-                "Mental suggestions",
-                "Useful articles and videos",
-                "Pregnancy mode",
-                "Suggestion notifications"
-            ],
-            "duration": 30,
-            "price": 19000,
             "currency": "Tomans",
             "popular": false
         }

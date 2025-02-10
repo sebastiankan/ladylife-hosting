@@ -19,10 +19,10 @@
             "popular": false
         },
         {
-            "id": "offered_30_days",
-            "bazaarId": "offered_30_days",
-            "myketId": "",
-            "sibappId": "",
+            "id": "monthly-1",
+            "bazaarId": "monthly-1",
+            "myketId": "monthly-1",
+            "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
             "title": "اشتراک ۱ ماهه ویژه ولنتاین",
             "features": [
                 "پیشنهادهای فیزیکی",
@@ -91,25 +91,6 @@
             "duration": 365,
             "realPrice": 420000,
             "price": 159000,
-            "currency": "تومان",
-            "popular": false
-        },
-        {
-            "id": "monthly-1",
-            "bazaarId": "monthly-1",
-            "myketId": "monthly-1",
-            "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
-            "title": "اشتراک ویژه ۱ ماهه",
-            "features": [
-                "پیشنهادهای فیزیکی",
-                "پیشنهادهای ذهنی",
-                "مقالات و ویدیوهای کاربردی",
-                "حالت بارداری",
-                "اعلان‌های یادآوری و پیشنهادات"
-            ],
-            "duration": 30,
-            "realPrice": 35000,
-            "price": 19000,
             "currency": "تومان",
             "popular": false
         }
