@@ -38,25 +38,6 @@
             "popular": true
         },
         {
-            "id": "monthly-1",
-            "bazaarId": "monthly-1",
-            "myketId": "monthly-1",
-            "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
-            "title": "اشتراک ویژه ۱ ماهه",
-            "features": [
-                "پیشنهادهای فیزیکی",
-                "پیشنهادهای ذهنی",
-                "مقالات و ویدیوهای کاربردی",
-                "حالت بارداری",
-                "اعلان‌های یادآوری و پیشنهادات"
-            ],
-            "duration": 30,
-            "realPrice": 35000,
-            "price": 19000,
-            "currency": "تومان",
-            "popular": false
-        },
-        {
             "id": "months-3",
             "bazaarId": "months-3",
             "myketId": "months-3",
