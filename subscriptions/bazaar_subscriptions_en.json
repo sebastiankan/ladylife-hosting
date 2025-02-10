@@ -53,7 +53,7 @@
             "duration": 90,
             "price": 49000,
             "currency": "Tomans",
-            "popular": false
+            "popular": true
         },
         {
             "id": "months-6",
@@ -89,7 +89,7 @@
             "duration": 365,
             "price": 159000,
             "currency": "Tomans",
-            "popular": true
+            "popular": false
         },
         {
             "id": "monthly-1",

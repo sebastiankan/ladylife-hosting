@@ -73,7 +73,7 @@
             "realPrice": 105000,
             "price": 49000,
             "currency": "تومان",
-            "popular": false
+            "popular": true
         },
         {
             "id": "months-6",
@@ -111,7 +111,7 @@
             "realPrice": 420000,
             "price": 159000,
             "currency": "تومان",
-            "popular": true
+            "popular": false
         },
         {
             "id": "monthly-1",
