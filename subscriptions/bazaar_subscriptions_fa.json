@@ -23,7 +23,7 @@
             "bazaarId": "monthly-1",
             "myketId": "monthly-1",
             "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
-            "title": "اشتراک ۱ ماهه ویژه ولنتاین",
+            "title": "اشتراک ویژه ۱ ماهه",
             "features": [
                 "پیشنهادهای فیزیکی",
                 "پیشنهادهای ذهنی",
@@ -33,9 +33,9 @@
             ],
             "duration": 30,
             "realPrice": 35000,
-            "price": 13000,
+            "price": 19000,
             "currency": "تومان",
-            "popular": true
+            "popular": false
         },
         {
             "id": "months-3",

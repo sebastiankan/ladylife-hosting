@@ -23,7 +23,7 @@
             "bazaarId": "monthly-1",
             "myketId": "monthly-1",
             "sibappId": "aaedbc47-569b-4345-b240-9c028806af13",
-            "title": "1 Month Valentine's Special",
+            "title": "1 Month",
             "features": [
                 "Physical suggestions",
                 "Mental suggestions",
@@ -32,9 +32,9 @@
                 "Suggestion notifications"
             ],
             "duration": 30,
-            "price": 13000,
+            "price": 19000,
             "currency": "Tomans",
-            "popular": true
+            "popular": false
         },
         {
             "id": "months-3",
